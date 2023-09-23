@@ -5,7 +5,7 @@ package pb;
 
 import "response.proto";
 
-option go_package = "github.com/uangpintar/go-modules/grpc/users/pb";
+option go_package = "github.com/gadhittana01/grpc-proto/users/pb";
 
 service UsersService {
     rpc GetUsers(google.protobuf.Empty) returns (GetUsersResp);

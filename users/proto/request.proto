@@ -2,4 +2,4 @@ syntax = "proto3";
 
 package pb;
 
-option go_package = "github.com/uangpintar/go-modules/grpc/users/pb";
+option go_package = "github.com/gadhittana01/grpc-proto/users/pb";
