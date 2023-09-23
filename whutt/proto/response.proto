@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package pb;
 
-option go_package = "github.com/gadhittana01/grpc-proto/users/pb";
+option go_package = "github.com/gadhittana01/grpc-proto/whutt/pb";
 
 message GetUsersResp {
     repeated User users = 1;
